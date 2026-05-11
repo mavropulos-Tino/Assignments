@@ -1,0 +1,12 @@
+﻿namespace Task03_ShapeAbstractClasses.models;
+public abstract class Shape
+{
+    public abstract double CalculateArea();
+    public abstract double CalculatePerimeter();
+
+    public void DisplayInfo()
+    {
+        Console.WriteLine($"Area: {CalculateArea()}");
+        Console.WriteLine($"Perimeter: {CalculatePerimeter()}");
+    }
+}

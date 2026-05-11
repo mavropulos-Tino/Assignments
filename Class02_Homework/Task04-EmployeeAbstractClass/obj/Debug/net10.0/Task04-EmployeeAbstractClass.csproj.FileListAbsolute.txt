@@ -1,0 +1,14 @@
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\obj\Debug\net10.0\Task04-EmployeeAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\obj\Debug\net10.0\Task04-EmployeeAbstractClass.AssemblyInfoInputs.cache
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\obj\Debug\net10.0\Task04-EmployeeAbstractClass.AssemblyInfo.cs
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\obj\Debug\net10.0\Task04-EmployeeAbstractClass.csproj.CoreCompileInputs.cache
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\bin\Debug\net10.0\Task04-EmployeeAbstractClass.exe
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\bin\Debug\net10.0\Task04-EmployeeAbstractClass.deps.json
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\bin\Debug\net10.0\Task04-EmployeeAbstractClass.runtimeconfig.json
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\bin\Debug\net10.0\Task04-EmployeeAbstractClass.dll
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\bin\Debug\net10.0\Task04-EmployeeAbstractClass.pdb
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\obj\Debug\net10.0\Task04-EmployeeAbstractClass.dll
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\obj\Debug\net10.0\refint\Task04-EmployeeAbstractClass.dll
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\obj\Debug\net10.0\Task04-EmployeeAbstractClass.pdb
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\obj\Debug\net10.0\Task04-EmployeeAbstractClass.genruntimeconfig.cache
+C:\Tino\Academy\Assignments\Class02_Homework\Task04-EmployeeAbstractClass\obj\Debug\net10.0\ref\Task04-EmployeeAbstractClass.dll

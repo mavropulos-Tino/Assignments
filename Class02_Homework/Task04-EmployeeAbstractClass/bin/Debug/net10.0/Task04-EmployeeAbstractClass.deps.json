@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Task04-EmployeeAbstractClass/1.0.0": {
+        "runtime": {
+          "Task04-EmployeeAbstractClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task04-EmployeeAbstractClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

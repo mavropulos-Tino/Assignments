@@ -1,0 +1,14 @@
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\bin\Debug\net10.0\Task01-Searchable.exe
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\bin\Debug\net10.0\Task01-Searchable.deps.json
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\bin\Debug\net10.0\Task01-Searchable.runtimeconfig.json
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\bin\Debug\net10.0\Task01-Searchable.dll
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\bin\Debug\net10.0\Task01-Searchable.pdb
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\obj\Debug\net10.0\Task01-Searchable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\obj\Debug\net10.0\Task01-Searchable.AssemblyInfoInputs.cache
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\obj\Debug\net10.0\Task01-Searchable.AssemblyInfo.cs
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\obj\Debug\net10.0\Task01-Searchable.csproj.CoreCompileInputs.cache
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\obj\Debug\net10.0\Task01-Searchable.dll
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\obj\Debug\net10.0\refint\Task01-Searchable.dll
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\obj\Debug\net10.0\Task01-Searchable.pdb
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\obj\Debug\net10.0\Task01-Searchable.genruntimeconfig.cache
+C:\Tino\Academy\Assignments\Class02_Homework\Task01 - Searchable\obj\Debug\net10.0\ref\Task01-Searchable.dll

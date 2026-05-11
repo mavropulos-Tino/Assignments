@@ -1,0 +1,14 @@
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\bin\Debug\net10.0\Task03-ShapeAbstractClasses.exe
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\bin\Debug\net10.0\Task03-ShapeAbstractClasses.deps.json
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\bin\Debug\net10.0\Task03-ShapeAbstractClasses.runtimeconfig.json
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\bin\Debug\net10.0\Task03-ShapeAbstractClasses.dll
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\bin\Debug\net10.0\Task03-ShapeAbstractClasses.pdb
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\obj\Debug\net10.0\Task03-ShapeAbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\obj\Debug\net10.0\Task03-ShapeAbstractClasses.AssemblyInfoInputs.cache
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\obj\Debug\net10.0\Task03-ShapeAbstractClasses.AssemblyInfo.cs
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\obj\Debug\net10.0\Task03-ShapeAbstractClasses.csproj.CoreCompileInputs.cache
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\obj\Debug\net10.0\Task03-ShapeAbstractClasses.dll
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\obj\Debug\net10.0\refint\Task03-ShapeAbstractClasses.dll
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\obj\Debug\net10.0\Task03-ShapeAbstractClasses.pdb
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\obj\Debug\net10.0\Task03-ShapeAbstractClasses.genruntimeconfig.cache
+C:\Tino\Academy\Assignments\Class02_Homework\Task03-ShapeAbstractClasses\obj\Debug\net10.0\ref\Task03-ShapeAbstractClasses.dll

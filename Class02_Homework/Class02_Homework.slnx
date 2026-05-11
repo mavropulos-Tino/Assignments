@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Task01 - Searchable/Task01-Searchable.csproj" />
+  <Project Path="Task02-ShapeInterface/Task02-ShapeInterface.csproj" Id="be07bf7d-82a6-420e-b0db-8e9bce31953d" />
+  <Project Path="Task03-ShapeAbstractClasses/Task03-ShapeAbstractClasses.csproj" Id="5760b59e-84a3-4ce0-8062-ee0feaef628c" />
+  <Project Path="Task04-EmployeeAbstractClass/Task04-EmployeeAbstractClass.csproj" Id="92116b42-c648-4862-b9a5-cdd70d94fa98" />
+</Solution>

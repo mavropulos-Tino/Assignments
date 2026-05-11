@@ -1,0 +1,14 @@
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\bin\Debug\net10.0\Task02-ShapeInterface.exe
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\bin\Debug\net10.0\Task02-ShapeInterface.deps.json
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\bin\Debug\net10.0\Task02-ShapeInterface.runtimeconfig.json
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\bin\Debug\net10.0\Task02-ShapeInterface.dll
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\bin\Debug\net10.0\Task02-ShapeInterface.pdb
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\obj\Debug\net10.0\Task02-ShapeInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\obj\Debug\net10.0\Task02-ShapeInterface.AssemblyInfoInputs.cache
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\obj\Debug\net10.0\Task02-ShapeInterface.AssemblyInfo.cs
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\obj\Debug\net10.0\Task02-ShapeInterface.csproj.CoreCompileInputs.cache
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\obj\Debug\net10.0\Task02-ShapeInterface.dll
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\obj\Debug\net10.0\refint\Task02-ShapeInterface.dll
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\obj\Debug\net10.0\Task02-ShapeInterface.pdb
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\obj\Debug\net10.0\Task02-ShapeInterface.genruntimeconfig.cache
+C:\Tino\Academy\Assignments\Class02_Homework\Task02-ShapeInterface\obj\Debug\net10.0\ref\Task02-ShapeInterface.dll
