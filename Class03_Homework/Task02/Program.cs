@@ -15,3 +15,7 @@ internal class Program
         plane.DisplayInfo();
     }
 }
+
+/*
+Create a class Vehicle that have one method DisplayInfo(). Create class Car, MotorBike, Boat, Airplane that will inherit from Vehicle and will implement the respective method
+*/
