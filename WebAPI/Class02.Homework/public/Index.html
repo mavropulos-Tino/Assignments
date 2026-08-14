@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Users API Client</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="card">
+      <h2>Get All Users</h2>
+      <button id="btnFetchAll">Load All Users</button>
+      <table id="usersTable" style="display: none">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Age</th>
+          </tr>
+        </thead>
+        <tbody id="usersTableBody"></tbody>
+      </table>
+    </div>
+
+    <div class="card">
+      <h2>Get User by ID</h2>
+      <input type="number" id="userIdInput" placeholder="Enter ID" />
+      <button id="btnFetchById">Search</button>
+
+      <div
+        id="singleUserResult"
+        class="user-detail"
+        style="display: none"
+      ></div>
+      <div id="userError" class="error"></div>
+    </div>
+
+    <script type="" src="script.js"></script>
+  </body>
+</html>
